@@ -6,3 +6,6 @@ Intermediate Level
 
 
 This is staging branch| Trying to showcase the merge concept in GIT
+
+variable b = 100;
+
